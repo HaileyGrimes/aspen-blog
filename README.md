@@ -1,5 +1,7 @@
 # Setup
 
+[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/HaileyGrimes/aspen-blog)
+
 Run these in a terminal. You can open a terminal in VS Code with <kbd>CTRL+`</kbd>
 
 ```bash
@@ -26,7 +28,6 @@ Folder where css styling be.
 `src/util/site.json`
 
 Site-wide settings
-
 
 ## How does Gatsby (React) work
 
